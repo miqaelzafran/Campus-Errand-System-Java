@@ -1,0 +1,3 @@
+101,1,0,Laundry Pickup,5.0
+102,1,0,Food Delivery,6.0
+103,2,0,Personal Shopper,10.0
